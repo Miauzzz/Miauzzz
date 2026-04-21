@@ -32,7 +32,7 @@ root@miauzzz-pc:~$ fastfetch
                    -`                          miauzzz-info
                   .o+`                         ────────────────────
                  `ooo/                         "role": "Web Developer & Cybersec Student",
-                `+oooo:                        "age": "25",
+                `+oooo:                        "age": "26",
                `+oooooo:                       "location": "Chile",
                -+oooooo+:                      "education": "Ing. Ciberseguridad (cursando),
              `/:-:++oooo+:                                Analista Programador,
