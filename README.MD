@@ -8,7 +8,6 @@ Telecomunicaciones | Desarrollo Web | Ciberseguridad<br>
 <img width="45%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,6&height=1"/>
 
 [![GitHub ](https://img.shields.io/badge/See%20my%20repos-gray?style=for-the-badge&logo=Github)](https://github.com/Miauzzz?tab=repositories)<sup> °~</sup><sup>° </sup>
-[![Instagram ](https://img.shields.io/badge/Follow%20me-orange?style=for-the-badge&logo=Instagram)](https://instagram.com/imiauzzz)<sup> °~</sup><sup>° </sup>
 [![Steam ](https://img.shields.io/badge/Steam-0088CC?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/miauself)<sup> °~</sup><sup>° </sup>
 [![Discord ](https://img.shields.io/badge/Contact-F3F5F5?style=for-the-badge&logo=Discord)](https://discordapp.com/users/beyondmiauself)
 
